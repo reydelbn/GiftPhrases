@@ -1,0 +1,19 @@
+html,
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: linear-gradient(
+    140deg,
+    rgba(0, 0, 0, 1) 60%,
+    rgba(112, 24, 24, 1) 100% /*rgba(255, 255, 255, 1) 100%*/
+  );
+  background-attachment: fixed;
+}
+
+h1 {
+  color: white;
+}
